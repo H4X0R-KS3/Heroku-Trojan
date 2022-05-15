@@ -5,7 +5,7 @@
     "env": {
         "PASSWORD": {
             "description": "Trojan Password",
-            "value": "ImDarkLK"        
+            "value": "KS.Officials.Sahan"        
         }
     },
     "repository": "https://github.com/ImDarkLK/Heroku-Trojan",
