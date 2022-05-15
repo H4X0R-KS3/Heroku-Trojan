@@ -3,10 +3,10 @@
 
 # Deploy To Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/ImDarkLK/Heroku-Trojan)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/H4x0R-KS3/Heroku-Trojan)
 
 * Protocol : ```Trojan``` 
-* Password : ```ImDarkLK``` 
+* Password : ```KS.Officials.Sahan``` 
 * Address : ```appname.heroku.com```
 * Port : ```443```
 * Path : ```Empty```
